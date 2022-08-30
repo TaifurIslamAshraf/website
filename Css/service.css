@@ -1,0 +1,12 @@
+.active__page__service {
+  font-weight: bold;
+}
+.service-home {
+  background-color: #f1f1f1;
+}
+.service-review {
+  background-color: #f1f1f1;
+}
+.serivce-hero {
+  background-image: url("/image/service\ hero\ bg.png");
+}
